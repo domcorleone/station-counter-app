@@ -1,0 +1,37 @@
+body {
+  background-image: url("https://i.postimg.cc/J4NRcTZs/station.jpg");
+}
+.main{
+  width: 350px;
+  height: 300px;
+  background-color: rgb(100, 100, 120);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.9;
+  font-family: sans-serif,tahoma, fantasy;
+  border: 2px solid black;
+  border-radius: 10px;
+  max-height: 500px;
+  /*max-width: 80%;*/
+}
+
+.btn {
+  width: 180px;
+  height: 45px;  
+  font-size: 18px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  padding: 5px 5px;
+}
+
+.btn-increment-css{
+  background-color: darkred;
+}
+
+.btn-save-css{
+  background-color: darkgreen;
+}
+
