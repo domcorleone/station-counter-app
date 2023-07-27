@@ -1,5 +1,6 @@
 body {
   background-image: url("https://i.postimg.cc/J4NRcTZs/station.jpg");
+  background-size: cover;
 }
 .main{
   width: 350px;
